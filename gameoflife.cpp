@@ -1,5 +1,6 @@
 #include <iostream>
 
+
 class gameoflife{
     int x = 10, y = 10;
     int x_pos, y_pos;
