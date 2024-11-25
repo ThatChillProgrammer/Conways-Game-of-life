@@ -10,7 +10,7 @@ public:
     void Draw();
 
 
-    int grid[20][20];
+    int* grid[20][20];
 private:
     int numRows, numCols, cellsize;
 };
