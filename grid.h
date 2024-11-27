@@ -7,6 +7,8 @@ public:
     Grid();
     void Initialize();
     void Print();
+    void StatusFunction(int row, int cols);
+    void Borders(int row, int cols);
     void Draw();
 
 
