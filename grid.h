@@ -9,6 +9,7 @@ public:
     void Print();
     void StatusFunction(int row, int cols);
     void Borders(int row, int cols);
+    void CgolRules(int row, int cols);
     void Draw();
 
 
